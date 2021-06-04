@@ -1,5 +1,8 @@
 <%@ page pageEncoding="UTF-8"%>
 
+
+<div id = "main">
+
 	<div>
 	    <br>
 	    <i class="fas fa-users fa-2x"> 회원가입</i>
@@ -388,6 +391,8 @@ Copyright © Kakao Corp. All rights reserved.
          <button type="button"  id="notagree" class="btn btn-danger">모두 동의하지 않습니다.</button>
          </div>
      </div>
+     
+</div>     
      
      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
 	
